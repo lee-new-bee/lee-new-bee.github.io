@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lee-new-bee.github.io//sitemap.xml
